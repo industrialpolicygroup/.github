@@ -1,4 +1,4 @@
-## Hi there 👋
+## Industrial Policy Group Github Repository👋
 Welcome to the official Industrial Policy Group Github repository.
 
 # About Us 
