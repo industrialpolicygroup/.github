@@ -1,13 +1,11 @@
 # Industrial Policy Group Github Repository 
 Welcome to the official Industrial Policy Group Github repository 👋
 
-
 ## Industrial Policy Group
 
 We study how governments shape economies.
 
 We are an academic research group dedicated to the economic analysis of industrial policy. Our goal is to gain a basic understanding of global industrial policy practices.
-
 
 ### Find Our Work
 
