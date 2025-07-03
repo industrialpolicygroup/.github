@@ -9,7 +9,7 @@ We study how governments shape economies.
 We are an academic research group dedicated to the economic analysis of industrial policy. Our goal is to gain a basic understanding of global industrial policy practices.
 
 
-### Website
+### Find Our Work
 
 Find our research at [industrialpolicygroup.com](https://industrialpolicygroup.com)
 
