@@ -13,7 +13,7 @@ We are an academic research group dedicated to the economic analysis of industri
 
 Find our research at [industrialpolicygroup.com](https://industrialpolicygroup.com)
 
-Find our data at [https://industrialpolicydata.com](https://industrialpolicydata)
+Find our data at [https://industrialpolicydata.com](https://industrialpolicydata.com)
 
 Find our (NLP) models at [huggingface.co/industrialpolicygroup](https://huggingface.co/industrialpolicygroup)
 
